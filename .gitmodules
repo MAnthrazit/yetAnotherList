@@ -1,0 +1,6 @@
+[submodule "yetAnotherList-frontend"]
+	path = yetAnotherList-frontend
+	url = https://github.com/MAnthrazit/yetAnotherList-frontend
+[submodule "yetAnotherList-backend"]
+	path = yetAnotherList-backend
+	url = https://github.com/MAnthrazit/yetAnotherList-backend
